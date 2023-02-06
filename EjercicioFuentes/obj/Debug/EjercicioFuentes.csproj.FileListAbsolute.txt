@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EjercicioFuentes\bin\Debug\EjercicioFuentes.exe.config
+C:\Users\User\source\repos\EjercicioFuentes\bin\Debug\EjercicioFuentes.exe
+C:\Users\User\source\repos\EjercicioFuentes\bin\Debug\EjercicioFuentes.pdb
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.Form1.resources
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.Properties.Resources.resources
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.exe
+C:\Users\User\source\repos\EjercicioFuentes\obj\Debug\EjercicioFuentes.pdb
